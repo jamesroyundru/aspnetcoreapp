@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "KiAh1Tfr9f/6k4Q9iXga6FAlYl5DfPUbv69gQ5fghmQ=",
+  "Hash": "C9WlqvJ9NqkXsX1sRTn894GH9s+6ixaNtwOwBAyTXxY=",
   "Source": "aspnetcoreapp",
   "BasePath": "_content/aspnetcoreapp",
   "Mode": "Default",
@@ -66,6 +66,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/css/site.css"
+    },
+    {
+      "Identity": "/Users/apple/Projects/aspnetcoreapp/wwwroot/data/products.json",
+      "SourceId": "aspnetcoreapp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/apple/Projects/aspnetcoreapp/wwwroot/",
+      "BasePath": "_content/aspnetcoreapp",
+      "RelativePath": "data/products.json",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/data/products.json"
     },
     {
       "Identity": "/Users/apple/Projects/aspnetcoreapp/wwwroot/favicon.ico",
